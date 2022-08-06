@@ -11,5 +11,5 @@ Installing this project locally via [Pipenv](https://pipenv.readthedocs.io/en/la
     $ cd bigquery-etl
     $ pipenv shell
     $ pipenv update
-    $ python3 main.py@
+    $ python3 main.py
     ```
